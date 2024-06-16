@@ -1,0 +1,170 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #FBFCFC;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #FDEDEC 3px solid;
+}
+
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+    background: #FDEDEC;
+    color: white;
+    padding: 15px 0;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#contenido {
+    margin-top: 20px;
+}
+
+#contenido article {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    margin-top: 20px;
+}
+
+aside img {
+    width: 100%;
+    height: auto;
+    
+}
+
+footer {
+    clear: both;
+    background: #50b3a2;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer h2 {
+    margin: 0;
+}
+
+footer p {
+    margin: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#contenedor {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #77aaff 3px solid;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 36px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+    background: #333;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background: #D7BDE2;
+}
+
+#contenido {
+    float: left;
+    width: 70%;
+    margin-top: 10px;
+}
+
+#contenido article {
+    padding: 20px;
+    background: #fff;
+    margin-bottom: 10px;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+aside img {
+    width: 100%;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    clear: both;
+}
